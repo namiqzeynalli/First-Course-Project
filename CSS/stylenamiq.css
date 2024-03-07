@@ -68,6 +68,170 @@ header {
     height: 356px;
 }
 .aphorism {
-    margin-top: 67.62px;
-    text-align: center;
+    margin-top: 67.62px !important;
+    background-color: #1E4681;
+    width: 483.63px;
+    height: 200px;
+    border-radius: 5px;
+    color: #fff;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+.aphorism .top-div {
+    width: 430.59px;
+    height: 113px; 
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+.aphorism .aphorism-content {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32.5px;
+}
+.aphorism .bottom-div {
+    text-align: right;
+    padding-right: 15px;
+}
+.aphorism .author {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: right;
+}
+.first-section {
+    padding: 0 127px 162px 121px;
+}
+.first-heading {
+    width: 365px;
+    height: 93px;
+    margin-bottom: 18px;
+}
+.first-heading h3 {
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 55.76px;
+}
+.first-content-img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 94px;
+}
+.first-content {
+    width: 662px;
+    height: 374px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+}
+.cameraman img {
+    width: 314px;
+    height: 315px;
+}
+.operator {
+    margin-right: 132px;
+}
+.operator img {
+    width: 232px;
+    height: 203px;
+}
+.first-section-footer-content {
+    display: flex;
+}
+.first-section-footer {
+    display: flex;
+    align-items: center;
+}
+.first-footer-p-top {
+    width: 150px;
+    height: 39px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 32.5px;
+}
+.first-footer-p-bottom {
+    width: 150px;
+    height: 39px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.4px;
+}
+.first-footer-ps {
+    margin-right: 95px;
+}
+.second-section {
+    padding: 0 344px 249px 121px;
+}
+.second-heading {
+    width: 667px;
+    height: 93px;
+    margin-bottom: 89px;
+}
+.second-heading h3 {
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 55.76px;
+}
+.second-content-p-one {
+    color: #1E4681;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 32.5px;
+}
+.second-content-p-two {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23.4px;
+}
+.second-content {
+    display: flex;
+    justify-content: space-between;
+}
+.second-content-left p:first-child {
+    width: 150px;
+    height: 39px;
+}
+.second-content-left p:last-child {
+    width: 223px;
+    height: 39px;
+}
+.second-content-center p:first-child {
+    width: 214px;
+    height: 39px;
+}
+.second-content-center p:last-child {
+    width: 271px;
+    height: 109px;
+}
+.secont-content-right p:first-child {
+    width: 150px;
+    height: 39px;
+}
+.second-content-right p:last-child {
+    width: 245px;
+    height: 39px;
+}
+.third-section {
+    padding: 0 0 248px 121px;
+}
+.third-heading {
+    width: 667px;
+    height: 93px;
+}
+.third-heading h3 {
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 55.76px;
+}
+.third-section ul {
+    width: 662px;
+    height: 374px;
+}
+.third-section ul li {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
 }
