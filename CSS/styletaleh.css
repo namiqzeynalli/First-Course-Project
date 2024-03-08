@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");
+.fifth {
+  background-color: #efefef;
+  width: 100%;
+  height: 780px;
+}
+.fifth .title {
+  font-family: Roboto Slab;
+  padding-top: 91px;
+  padding-left: 122px;
+  height: auto;
+}
+.fifth h1 {
+  font-size: 55px;
+  height: 93px;
+  line-height: 55.76px;
+}
+.fifth .comment {
+  margin-top: 34px;
+  border: 1px solid #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  width: 791px;
+  height: 451px;
+  background-color: #ffffff;
+  margin-left: 126px;
+  margin-bottom: 111px;
+  border-radius: 30px;
+}
+.comment-text {
+  padding-top: 50px;
+  padding-left: 45px;
+  padding-bottom: 10px;
+  padding-right: 46px;
+}
+.comment-text p {
+  width: 700px;
+  height: 203px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.comment-commenter {
+  display: flex;
+  padding-left: 26px;
+  padding-bottom: 29px;
+}
+.name-and-social-media {
+  padding-top: 40px;
+  padding-left: 30px;
+}
+.name-and-social-media h2 {
+  font-size: 30px;
+  font-family: Roboto Slab;
+  height: 59px;
+}
+
+
+
+.sixth{
+    background-color: #9dc9c8;
+    height: 780px;
+
+}
+.sixth .wrapper{
+padding-left: 122px;
+padding-top: 179px;
+}
+.sixth h2{
+    font-family: Roboto Slab;
+    font-size: 55px;
+    font-weight: 700;
+}
+.sixth .price{
+    padding-top: 54px;
+}
+.sixth .price p{
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 25.35px;
+}
+.sixth .price h3{
+    font-weight: 400;
+    font-size: 80px;
+    height: 181px;
+    line-height: 81.11px;
+
+}
+.sixth .info{
+    display: flex;
+    flex-direction: row;
+    
+}
+.sixth .info .left {
+    padding-right: 70px;
+    font-size: 18px;  
+}
+.info .title{
+    width: 294px;
+    font-weight: 400;
+    font-size: 25px;
+line-height: 25.35px;
+padding-bottom: 9px;
+}
+.left .content, .right .content{
+    width: 294px;
+    line-height: 18.25px;
+    font-size: 18px;
+}
+
+
+
+footer{
+    height: 390px;
+    background-color: black;
+}
+footer .wrapper{
+    padding-left: 122px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+footer .logo{
+    padding: 0;
+    margin: 0;
+}
+
+footer .logo img{
+    width: 115px;
+    height: 68px;
+}
+
+footer .tel,footer .mail{
+    display: flex;
+}
+footer .tel{
+    padding-bottom: 25px;
+}
+footer .tel p,footer .mail p{
+    padding-left: 22px;
+    padding-top: 5px;
+}
+footer p{
+    color: white;
+}
+footer .contact p{
+    padding-right: 146px;
+    font-size: 25px;
+    line-height: 25.35px;
+
+}
+footer .mail p{
+    width: 269px;
+}
+
+footer .social-media{
+    padding-top: 28px;
+}
+footer .social-media .fb{
+    padding-left: 18px;
+    padding-right: 21px;
+}
+footer .social-media .vk{
+    padding-right: 25px ;
+}
+footer .copyright{
+    padding-top: 146px;
+    font-size: 18px;
+    line-height: 18.25px;
+}
