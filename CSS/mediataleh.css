@@ -1,0 +1,446 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@media (max-width: 1279px) {
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .fifth {
+    height: 451.75px;
+  }
+  .fifth .title {
+    padding: 52.7px 191.7px 19.69px 70.66px;
+  }
+  .fifth h1 {
+    font-family: Roboto Slab;
+    font-size: 32px;
+    line-height: 32.44px;
+  }
+  .fifth .comment {
+    margin-left: 72.97px;
+    margin-bottom: 64.29px;
+    margin-right: 302.9px;
+  }
+  .comment-text {
+    padding: 23.17px 26.64px 0 26.6px;
+  }
+  .comment-text p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .comment-commenter {
+    padding: 0;
+    margin: 0;
+  }
+  .comment-commenter .commenter-photo {
+    padding-top: 5.79px;
+    padding-left: 15.6px;
+    padding-bottom: 16.8px;
+    margin: 0;
+  }
+  .commenter-photo img {
+    width: 110.4px;
+    height: 97.88px;
+  }
+  .name-and-social-media {
+    padding: 0;
+    margin-left: 17.38px;
+    margin-top: 28.96px;
+    margin-bottom: 39.38px;
+  }
+  .name-and-social-media h2 {
+    padding: 0;
+    margin: 0;
+    font-size: 17px;
+    line-height: 17.24px;
+    height: 34.17px;
+  }
+  .name-and-social-media img {
+    width: 18.53px;
+    height: 17.95px;
+  }
+
+
+
+
+
+  .sixth {
+    background-color: #9dc9c8;
+    height: 451.75px;
+  }
+  .sixth .wrapper {
+    padding: 103.67px 0 0 70.66px;
+  }
+  .sixth h2 {
+    font-family: Roboto Slab;
+    font-size: 32px;
+  }
+  .sixth .price {
+    padding: 32.27px 0 0 0;
+  }
+  .sixth .price p {
+    font-size: 14px;
+    line-height: 14.19px;
+  }
+  .sixth .price h3 {
+    font-weight: 400;
+    font-size: 46px;
+    height: 104.83px;
+    line-height: 46.64px;
+    padding: 0;
+  }
+  .sixth .info .left {
+    padding: 0;
+    padding-right: 40.54px;
+  }
+  .info .title {
+    margin: 0;
+    padding: 0;
+    width: 170.28px;
+    font-size: 14px;
+    line-height: 14.19px;
+    padding-bottom: 5.21px;
+  }
+  .left .content,
+  .right .content {
+    max-width: 170.28px;
+    font-weight: 400;
+    line-height: 10.14px;
+    font-size: 10px;
+  }
+
+
+
+  footer{
+    height: 240px;
+    background-color:black;
+    position: relative;
+}
+footer .wrapper{
+    padding: 0;
+    padding-left: 70.66px;
+    padding-top: 28.96px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 100%;
+}
+footer .logo{
+    padding: 0;
+    margin: 0;
+}
+
+footer .logo img{
+    width: 66.6px;
+    height: 39.38px;
+}
+
+footer .tel{
+    padding-bottom: 13px;
+}
+footer .tel p,footer .mail p{
+    padding: 0;
+    margin: 0;
+    padding-left: 13px;
+}
+footer .contact{
+  padding: 0;
+  margin: 0;
+  margin-left: 379.93px;
+  margin-right: 84.3px;
+  max-width:158.18px;
+}
+footer .contact p{
+    font-size: 14px;
+    line-height: 25.35px;
+}
+footer .mail p{
+    margin: 0;
+    width: 155.8px;
+    font-size: 14px;
+}
+footer .contact img{
+    padding: 0;
+    margin: 0;
+    width: 15.64px;
+    height: 15.64px;
+}
+
+footer .social-media{
+    padding-top: 17.38px;
+}
+footer .social-media .fb{
+    padding-left: 10.43px;
+    padding-right: 12.16px;
+}
+footer .social-media .vk{
+    padding-right: 14.48px ;
+}
+.social-media img{
+    height: 18.53px;
+    width: 18.53px;
+}
+footer .copyright{
+  position: absolute;
+    padding: 0;
+    margin: 0;
+    bottom: 13.32px;
+    font-size: 10px;
+    line-height: 10.14px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 991px) and (min-width: 320px) {
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .fifth {
+  }
+  .fifth .title {
+    padding: 42px 83px 11px 36px;
+  }
+  .fifth h1 {
+    height: 69px;
+    font-size: 26px;
+    line-height: 26.36px;
+  }
+  .fifth .comment {
+    margin-left: 36px;
+    margin-bottom: 53x;
+    margin-right: 32px;
+    margin-top: 0;
+  }
+  .comment-text {
+    padding: 18.47px 21px 0 21px;
+  }
+  .comment-text p {
+    font-size: 10px;
+    line-height: 15px;
+  }
+  .comment-commenter {
+    padding: 0;
+    margin: 0;
+  }
+  .comment-commenter .commenter-photo {
+    padding-top: 21.52px;
+    padding-left: 21px;
+    padding-bottom: 13px;
+    padding-right: 0;
+    margin: 0;
+  }
+  .commenter-photo img {
+    width: 80px;
+    height: 84px;
+    padding: 0;
+    margin: 0;
+  }
+  .name-and-social-media {
+    padding: 0;
+    margin-left: 13.63px;
+    margin-top: 39.06px;
+    margin-bottom: 29.54px;
+    margin-right: 0;
+  }
+  .name-and-social-media h2 {
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    line-height: 14.19px;
+    height: 32.73px;
+  }
+  .name-and-social-media img {
+    width: 14.91px;
+    height: 17.2px;
+    padding: 0;
+    margin: 0;
+  }
+
+
+
+
+  
+  .sixth {
+    background-color: #9dc9c8;
+    height: 363px;
+  }
+  .sixth .wrapper {
+    padding: 62px 0 0 35px;
+  }
+  .sixth h2 {
+    font-family: Roboto Slab;
+    font-size: 26px;
+    padding: 0;
+    padding-right: 117px;
+    line-height: 26.36px;
+  }
+  .sixth .price {
+    padding: 22.33px 0 0 0;
+    margin: 0;
+  }
+  .sixth .price p {
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    line-height: 12.17px;
+  }
+  .sixth .price h3 {
+    font-size: 37px;
+    height: 84.34px;
+    line-height: 37.51px;
+  }
+  .sixth .info .left {
+    padding: 0;
+    padding-right: 31px;
+  }
+  .info .title {
+    margin: 0;
+    padding: 0;
+    width: 137px;
+    font-size: 12px;
+    line-height: 12.17px;
+    padding-bottom: 5.21px;
+  }
+  .left .content,
+  .right .content {
+    max-width: 140px;
+    line-height: 10.14px;
+    font-size: 10px;
+}
+.left .content{
+    max-width: 138px;
+
+}
+
+
+
+
+footer{
+    background-color: black;
+    position: static;
+}
+footer .wrapper{
+    padding: 0;
+    padding-left: 38.85px;
+    padding-top: 23.3px;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+footer .logo img{
+    width: 53.59px;
+    height: 31.69px;
+}
+footer .contact{
+  padding: 0;
+  margin: 0;
+  margin-right: 188.82px;
+  padding-left: 0.15px;
+  margin-bottom: 48.99px;
+}
+footer .tel{
+  padding-bottom: 1.4px;
+}
+footer .tel p,footer .mail p{
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    line-height: 12.17px;
+    padding-left: 10.25px;
+}
+footer .contact img{
+    padding: 0;
+    margin: 0;
+    width: 12.58px;
+    height: 12.58px;
+}
+footer .social-media{
+  padding: 0;
+    padding-top: 13.98px;
+}
+footer .social-media .fb{
+    padding-left: 8.39px;
+    padding-right: 9.78px;
+}
+footer .social-media .vk{
+    padding-right: 11.65px ;
+}
+.social-media img{
+    height: 16.31px;
+    width: 16.31px;
+}
+footer .copyright{
+  position: static;
+    padding: 0;
+    margin: 0;
+    align-items: flex-end;
+    font-size: 10px;
+    line-height: 10.14px;
+    margin-bottom: 10px ;
+}
+}
