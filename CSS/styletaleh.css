@@ -101,8 +101,9 @@ padding-bottom: 9px;
 
 
 footer{
-    height: 390px;
+    max-height: 412px;
     background-color: black;
+    position: relative;
 }
 footer .wrapper{
     padding-left: 122px;
@@ -147,6 +148,7 @@ footer .contact img{
 }
 footer .social-media{
     padding-top: 28px;
+    padding-bottom: 208px;
 }
 footer .social-media .fb{
     padding-left: 18px;
@@ -159,7 +161,9 @@ footer .social-media .vk{
     
 }
 footer .copyright{
-    padding-top: 146px;
+    /* deyisiklik var */
+    position: absolute;
+    bottom: 45px;
     font-size: 18px;
     line-height: 18.25px;
 }
