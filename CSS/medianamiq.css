@@ -367,7 +367,7 @@
         padding: 0 28px 73px 36px;
     }
     .second-heading {
-        width: 310.8px;
+        width: 90%;
         height: 43.34px;
         margin-bottom: 16.6px;
     }
@@ -418,7 +418,7 @@
         padding: 0 0 85px 36px;
     }
     .third-heading {
-        width: 310.8px;
+        width: 90%;
         height: 43.34px;
         margin-bottom: 9.6px;
     }
@@ -439,7 +439,7 @@
         font-size: 26px;
     }
     .fourth-heading {
-        width: 300px;
+        width: 280px;
         height: 43.34px;
         margin-bottom: 35px;
         margin-left: 34px;
@@ -490,7 +490,7 @@
         flex-wrap: wrap;
     }
     .img-director {
-        margin-left: 201px;
+        margin-left: 145px;
     }
     .first-footer-p-bottom {
         margin-bottom: 50px;
