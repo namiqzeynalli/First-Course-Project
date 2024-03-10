@@ -10,11 +10,11 @@
 header {
     padding: 21px 246px 173.36px 121px;
 }
-.logo img {
+.site-logo img {
     width: 112px;
     height: 66px;
 }
-.logo {
+.site-logo {
     margin-bottom: 97px;
 }
 .first img {
@@ -32,6 +32,10 @@ header {
     height: 22px;
     margin-right: 13px;
 }
+.part-of-header p {
+    font-size: 20px;
+    font-weight: 400;
+}
 .date-header {
     display: flex;
 }
@@ -39,10 +43,7 @@ header {
     display: flex;
     align-items: flex-end;
 }
-.first {
-    margin-right: 30px;
-}
-.second {
+.first, .second {
     margin-right: 30px;
 }
 .main-header {
@@ -50,7 +51,7 @@ header {
     align-items: center;
     justify-content: space-between;
 }
-.header-content h1{
+.header-content h1 {
     font-size: 80px;
     font-weight: 700;
     width: 628px;
@@ -122,7 +123,8 @@ header {
     margin-bottom: 94px;
 }
 .first-content {
-    width: 662px;
+    min-width: 662px;
+    max-width: 662px;
     height: 374px;
     font-weight: 400;
     font-size: 24px;
