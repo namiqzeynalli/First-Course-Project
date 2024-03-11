@@ -112,7 +112,6 @@
 
 
   footer{
-    height: 240px;
     background-color:black;
     position: relative;
 }
@@ -191,76 +190,11 @@ footer .copyright{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 991px) and (min-width: 320px) {
   * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-  }
-  .fifth {
   }
   .fifth .title {
     padding: 42px 83px 11px 36px;
@@ -381,9 +315,6 @@ footer .copyright{
     line-height: 10.14px;
     font-size: 10px;
 }
-.left .content{
-}
-
 
 
 
