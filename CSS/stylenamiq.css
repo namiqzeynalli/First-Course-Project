@@ -6,7 +6,10 @@
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
 }
-
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
 header {
     padding: 21px 246px 173.36px 121px;
 }
