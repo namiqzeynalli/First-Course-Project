@@ -427,7 +427,8 @@
         line-height: 26.36px;
     }
     .third-section ul {
-        width: 299px;
+        /* width: 299px; */
+        width: 100%;
         height: 174px;
     }
     .third-section ul li {
