@@ -326,12 +326,14 @@ footer .copyright{
 
   
   .sixth {
+    width: 100%;
     background-color: #9dc9c8;
-    height: 363px;
   }
   .sixth .wrapper {
     padding: 62px 0 0 35px;
+    width: 100%;
   }
+  
   .sixth h2 {
     font-family: Roboto Slab;
     font-size: 26px;
@@ -358,6 +360,12 @@ footer .copyright{
     padding: 0;
     padding-right: 31px;
   }
+  .sixth .info .right p{
+    width: 100%;
+  }
+  .info{
+    margin-right: 21px;
+  }
   .info .title {
     margin: 0;
     padding: 0;
@@ -366,15 +374,14 @@ footer .copyright{
     line-height: 12.17px;
     padding-bottom: 5.21px;
   }
+
   .left .content,
   .right .content {
-    max-width: 140px;
+    width: 100%;
     line-height: 10.14px;
     font-size: 10px;
 }
 .left .content{
-    max-width: 138px;
-
 }
 
 
@@ -399,6 +406,10 @@ footer .logo img{
 footer .contact{
   padding: 0;
   margin: 0;
+<<<<<<< HEAD
+=======
+  /* margin-right: 188.82px; */
+>>>>>>> development
   padding-left: 0.15px;
   margin-bottom: 48.99px;
 }
